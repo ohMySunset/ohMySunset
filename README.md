@@ -24,4 +24,3 @@
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ohmysunset&show_icons=true&locale=en" alt="ohmysunset" /></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohmysunset&show_icons=true&locale=en&layout=compact" alt="ohmysunset" /></p>
