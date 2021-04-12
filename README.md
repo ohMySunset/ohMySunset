@@ -5,7 +5,7 @@
 #### I'm preparing to become a Web Deveploper now.
 
 - 🔭 I’m currently looking for a job as a Back-End Developer.
-- 📝 I’m currently learning SpringBoot, Android ...
+- 📝 I’m currently learning SpringBoot, Node.js, Android ...
 - 📫 How to reach me : Please refer to the Email.
 
 <h4 align="left"> 🛠 Tech Stack:</h4>
