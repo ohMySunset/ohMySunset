@@ -4,7 +4,7 @@
 #### Hi there 👋, I'm SunKyung :D
 #### I'm preparing to become a Web Deveploper.
 
-- 📝 I’m currently learning PHP Laravel, Vue.js, TypeScript...
+- 📝 I’m currently learning PHP Laravel, Vue.js, React, TypeScript...
 - 📫 How to reach me : Please refer to the Email.
 
 <h4 align="left"> 🛠 Tech Stack:</h4>
