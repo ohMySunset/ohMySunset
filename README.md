@@ -2,9 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmysunset&label=Profile%20views&color=0e75b6&style=flat" alt="ohmysunset" /> </p>
 
 #### Hi there 👋, I'm SunKyung :D
-#### I'm preparing to become a Web Deveploper.
 
-- 📝 I’m currently learning PHP Laravel, Vue.js, React, TypeScript...
+- 📝 I’m currently learning PHP, Vue.js, React, TypeScript...
 - 📫 How to reach me : Please refer to the Email.
 
 <h4 align="left"> 🛠 Tech Stack:</h4>
