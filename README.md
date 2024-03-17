@@ -1,13 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmysunset&label=Profile%20views&color=0e75b6&style=flat" alt="ohmysunset" /> </p>
 
-#### Hi there 👋, I'm SunKyung :D
+# Sunkyung Yang 👩🏻‍💻
+## Software Developer in the 3th year of the career.
 
-- 📝 I’m currently learning PHP Laravel, Flutter
-- 📫 How to reach me : Please refer to the Email.
-
-<h4 align="left"> 🛠 Tech Stack:</h4>
-<p align="left">
+<h4 align="center"> 🛠 Tech Stack:</h4>
+<p align="center">
    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -19,7 +17,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://i.namu.wiki/i/SWsGhbHMi1fIncAdFET8NKd9M7HWilpHSYBFlHDksJkbZIBOvtQh5_2ZdnGdns41AQLAAg-qvNCbnUlr4tEL4A.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank"> <img src="" alt="laravel" width="40" height="40"/> </a>
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ohmysunset&show_icons=true&locale=en" alt="ohmysunset" /></p>
  
