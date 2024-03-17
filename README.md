@@ -1,12 +1,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmysunset&label=Profile%20views&color=0e75b6&style=flat" alt="ohmysunset" /> </p>
 
-# Sunkyung Yang 👩🏻‍💻
-## Software Developer in the 3th year of the career.
+### Sunkyung Yang 👩🏻‍💻
+#### Software Developer in the 3th year of the career.
 
 <h4 align="center"> 🛠 Tech Stack:</h4>
 <p align="center">
    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
