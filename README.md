@@ -5,7 +5,6 @@
 #### Software Developer in the 3th year of the career.
 
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
-<h4 align="center"> Techs I've used at least once </h4>
 <p align="center">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>&nbsp
