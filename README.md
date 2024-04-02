@@ -19,7 +19,7 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>&nbsp
-   <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>&nbsp
+   <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>&nbsp><br>
    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/Amazon RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp
 </p
