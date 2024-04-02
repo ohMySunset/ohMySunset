@@ -21,6 +21,7 @@
    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>&nbsp
+   <img src="https://img.shields.io/badge/Amazon RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp
 </p
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ohmysunset&show_icons=true&locale=en" alt="ohmysunset" /></p>
  
